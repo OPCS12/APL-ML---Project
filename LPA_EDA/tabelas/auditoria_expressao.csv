@@ -1,0 +1,2 @@
+file,sha256,delimiter,header_fields,row_widths,inconsistent_rows,duplicate_headers,genes,samples,orientation,missing,second_matrix,zero_variance,near_zero_variance,duplicate_gene_rows,duplicate_sample_columns,floor,near_floor_fraction,candidates_with_expression
+dados_processados/GSE172057_VST_unificada.txt.gz,1328d23813e337239c675e9c5a01fd67bc69a54179145e06368ca191ff6bb86e,'\t',324,{324: 36119},0,0,36119,323,genes_rows,0,não fornecida; equivalência não verificada,0,0,0,0,3.44844073036933,0.24287235254431153,22

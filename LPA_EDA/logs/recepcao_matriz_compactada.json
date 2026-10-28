@@ -1,0 +1,9 @@
+{
+  "checked_utc": "2026-10-27T23:35:03.548579+00:00",
+  "attachment": "GSE172057_RNAseq_Expression.vst (1).txt.gz",
+  "transfer_status": "rejected: file exceeds the executor transfer limit of 32 MiB",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE172057",
+  "geo_status": "proxy CONNECT 403; NCBI domains absent from enforced runtime policy",
+  "draft_change": "added www.ncbi.nlm.nih.gov, preserved existing entries; not applied or published",
+  "expression_analysis": "not executed; file content inaccessible"
+}

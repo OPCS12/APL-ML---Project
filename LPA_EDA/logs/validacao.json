@@ -1,0 +1,19 @@
+{
+  "clinical_run": "passed",
+  "expression_run": "passed",
+  "merge_byte_preservation": "passed",
+  "gene_order_preservation": "passed",
+  "gzip_crc_check": "passed",
+  "original_sha256_check": "passed",
+  "genes": 36119,
+  "samples": 323,
+  "candidate_expression_matches": 22,
+  "tables": 97,
+  "figures": 59,
+  "R_biomart": "not_executed_R_unavailable",
+  "second_VST": "not_provided",
+  "publication": "not_performed",
+  "fresh_task_restore": "not_tested",
+  "notebook_executed_code_cells": 16,
+  "notebook_status": "passed"
+}

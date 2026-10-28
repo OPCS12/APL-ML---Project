@@ -1,0 +1,44 @@
+[
+  {
+    "file": "suplemento_lin_2021.xlsx",
+    "uploaded_name": "10780432ccr204375-sup-255177_2_supp_6955122_qqrl44 (1).xlsx",
+    "sha256": "cf782160648a686fb50e1209a4415245751a47c198ae29fd240584e1cc685073",
+    "bytes": 537656,
+    "source": "anexo fornecido pelo usuário"
+  },
+  {
+    "file": "3683.pdf",
+    "uploaded_name": "3683.pdf",
+    "sha256": "3a0b4855beb002f420c6617a6588af90e6fa66a1ab5148fb48cd0a8d7c54ee36",
+    "bytes": 1334473,
+    "source": "anexo fornecido pelo usuário"
+  },
+  {
+    "file": "GSE172057_VST_parte_01.txt.gz",
+    "uploaded_name": "GSE172057_VST_parte_01.txt.gz",
+    "sha256": "bf026f50c0741e640b72fb9efdc23364fa212e3e762d438ce9ef8d33b374619c",
+    "bytes": 23507899,
+    "source": "anexo fornecido pelo usuário; parte independente gzip; sequência 01–04"
+  },
+  {
+    "file": "GSE172057_VST_parte_02.txt.gz",
+    "uploaded_name": "GSE172057_VST_parte_02.txt.gz",
+    "sha256": "deb2b7d46d0705a74f4221529a0c26a7bee16f515d849b5809f1b8508c708f65",
+    "bytes": 20236315,
+    "source": "anexo fornecido pelo usuário; parte independente gzip; sequência 01–04"
+  },
+  {
+    "file": "GSE172057_VST_parte_03.txt.gz",
+    "uploaded_name": "GSE172057_VST_parte_03.txt.gz",
+    "sha256": "b4c1ef3d96e1c2993fc40cb317ee0feec73cbddae6726a61ddcfa6ecc7d443ff",
+    "bytes": 15866815,
+    "source": "anexo fornecido pelo usuário; parte independente gzip; sequência 01–04"
+  },
+  {
+    "file": "GSE172057_VST_parte_04.txt.gz",
+    "uploaded_name": "GSE172057_VST_parte_04.txt.gz",
+    "sha256": "251dd38049f21f10b7a561a42fa6bd24509d7cfb1d9c16441ba3d33cf4ce6f29",
+    "bytes": 10159407,
+    "source": "anexo fornecido pelo usuário; parte independente gzip; sequência 01–04"
+  }
+]

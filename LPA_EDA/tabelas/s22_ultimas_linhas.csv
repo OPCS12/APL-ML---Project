@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+APL375,Male,30,Low-risk,without ATO,0,1,0,1,0,0,0,0,0,0,L-type,GII
+APL376,Male,33,Low-risk,with ATO,0,1,0,0,0,0,0,0,0,0,L-type,GII
+APL377,Male,60,Intermediate-risk,without ATO,0,0,0,0,0,0,0,0,0,0,L-type,GI
+APL378,Female,63,Intermediate-risk,,0,0,0,0,0,0,0,1,0,0,L-type,GI
+APL379,Male,21,High-risk,,1,1,1,0,1,0,0,0,0,0,V-type,GII
+,,,,,,,,,,,,,,,,
+† Patient ID + A: With whole-exome sequencing data at dignosis; Patient ID + C: With matched whole-exome sequencing germline data; Patient ID only: With RNA-seq but not whole-exome sequencing data.,,,,,,,,,,,,,,,,
+"§ n=321, for RNA-seq patients with available survival data.",,,,,,,,,,,,,,,,

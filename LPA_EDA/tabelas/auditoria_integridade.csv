@@ -1,0 +1,6 @@
+component,rows,status,decision
+Excel S22,346.0,auditado,346 pacientes preservados; notas e linha vazia registradas separadamente
+Excel S5,323.0,auditado,preservado; não equivale à conferência da matriz
+VST,36119.0,executada,323 colunas de amostras; partes unidas com bytes e ordem preservados
+biomaRt,,não executado,R ausente; anotação e acesso Ensembl ainda necessários
+segunda versão VST,,não fornecida,transposição não comparada

@@ -1,0 +1,9 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Table S22. Parameters used for the univariate Cox analysis.,,,,,,,,,,,,,,,,
+Patient ID†,Gender,Age,Sanz group,Consolidation strategy,WBC (> 10 × 109/L),Platelet count (≥ 40 × 109/L),FLT3-ITD mutation,FLT3-TKD mutation,WT1 mutation,NRAS mutation,ARID1A mutation,RREB1 mutation,KRAS mutation,EBF3 mutation,PML–RARA transcript type§,APL9 score§
+APL1AC,Male,18,High-risk,with ATO,1,0,0,0,0,0,0,0,0,0,,
+APL2AC,Female,49,High-risk,with ATO,1,0,0,0,0,0,0,0,0,0,L-type,GI
+APL3AC,Male,51,High-risk,with ATO,1,1,0,0,1,1,0,0,0,0,L-type,GII
+APL4AC,Male,40,High-risk,with ATO,1,1,0,1,0,0,0,0,0,0,,GI
+APL5AC,Female,35,High-risk,without ATO,1,1,0,0,0,0,0,0,0,0,L-type,GII
+APL6AC,Male,34,High-risk,with ATO,1,0,1,0,0,0,0,0,0,0,S-type,GII

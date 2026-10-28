@@ -1,0 +1,23 @@
+original_s22,patient_id,sex,age,sanz,consolidation,wbc_gt10,platelets_ge40,FLT3_ITD,FLT3_TKD,WT1,NRAS,ARID1A,RREB1,KRAS,EBF3,PML_RARA,APL9,early_death_candidate,sanz_binary
+APL215A,APL215,Male,49,High-risk,,1,0.0,0,0,0,1,0,0,0,0,L-type,GI,True,HR
+APL216A,APL216,Female,35,Intermediate-risk,,0,0.0,0,0,0,1,0,0,0,0,L-type,GII,True,não HR
+APL218A,APL218,Male,36,High-risk,,1,1.0,0,0,0,0,0,0,0,0,S-type,GII,True,HR
+APL219A,APL219,Female,34,Intermediate-risk,,0,0.0,0,0,0,0,0,1,0,0,L-type,GII,True,não HR
+APL220A,APL220,Female,27,Intermediate-risk,,0,0.0,0,1,0,0,0,0,0,0,S-type,GI,True,não HR
+APL221A,APL221,Male,65,High-risk,,1,0.0,0,0,0,0,0,1,0,0,L-type,GII,True,HR
+APL231,APL231,Female,35,Intermediate-risk,,0,0.0,0,0,0,0,0,0,0,0,S-type,GII,True,não HR
+APL246,APL246,Female,54,Intermediate-risk,,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,True,não HR
+APL253,APL253,Male,41,Intermediate-risk,,0,0.0,0,0,0,0,1,0,0,0,L-type,GII,True,não HR
+APL256,APL256,Male,27,High-risk,,1,0.0,0,1,0,0,0,0,0,0,S-type,GII,True,HR
+APL259,APL259,Female,37,Intermediate-risk,,0,0.0,0,0,1,0,0,0,0,0,L-type,GII,True,não HR
+APL260,APL260,Male,48,High-risk,,1,0.0,0,0,0,1,0,0,0,0,L-type,GII,True,HR
+APL265,APL265,Female,45,High-risk,,1,0.0,0,0,0,0,0,0,0,0,S-type,GII,True,HR
+APL294,APL294,Female,44,High-risk,,1,1.0,0,0,1,0,0,0,0,0,L-type,GII,True,HR
+APL297,APL297,Male,48,High-risk,,1,0.0,0,0,0,0,0,0,1,0,S-type,GII,True,HR
+APL304,APL304,Male,23,Intermediate-risk,,0,0.0,0,0,0,1,0,0,0,0,L-type,GII,True,não HR
+APL306,APL306,Male,24,Intermediate-risk,,0,0.0,0,0,1,0,0,0,0,0,L-type,GI,True,não HR
+APL312,APL312,Male,32,Intermediate-risk,,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,True,não HR
+APL325,APL325,Male,63,Intermediate-risk,,0,0.0,0,0,0,0,0,0,0,1,L-type,GII,True,não HR
+APL348,APL348,Female,38,High-risk,,1,0.0,0,0,1,0,0,0,0,0,V-type,GII,True,HR
+APL378,APL378,Female,63,Intermediate-risk,,0,0.0,0,0,0,0,0,1,0,0,L-type,GI,True,não HR
+APL379,APL379,Male,21,High-risk,,1,1.0,1,0,1,0,0,0,0,0,V-type,GII,True,HR

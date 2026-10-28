@@ -1,0 +1,347 @@
+original_s22,patient_id,sex,age,sanz,consolidation,wbc_gt10,platelets_ge40,FLT3_ITD,FLT3_TKD,WT1,NRAS,ARID1A,RREB1,KRAS,EBF3,PML_RARA,APL9,early_death_candidate,sanz_binary
+APL1AC,APL1,Male,18,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,,,False,HR
+APL2AC,APL2,Female,49,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,HR
+APL3AC,APL3,Male,51,High-risk,with ATO,1,1.0,0,0,1,1,0,0,0,0,L-type,GII,False,HR
+APL4AC,APL4,Male,40,High-risk,with ATO,1,1.0,0,1,0,0,0,0,0,0,,GI,False,HR
+APL5AC,APL5,Female,35,High-risk,without ATO,1,1.0,0,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL6AC,APL6,Male,34,High-risk,with ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL7AC,APL7,Male,22,High-risk,without ATO,1,0.0,0,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL8AC,APL8,Female,36,High-risk,without ATO,1,1.0,0,1,0,0,0,0,0,0,L-type,GI,False,HR
+APL9AC,APL9,Female,22,High-risk,without ATO,1,0.0,0,0,0,1,0,0,0,0,L-type,GII,False,HR
+APL10AC,APL10,Female,26,High-risk,without ATO,1,0.0,0,1,0,0,0,0,0,0,S-type,GII,False,HR
+APL11AC,APL11,Female,34,High-risk,with ATO,1,0.0,0,1,0,0,0,0,0,0,S-type,GII,False,HR
+APL12AC,APL12,Male,21,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL13AC,APL13,Male,34,High-risk,without ATO,1,0.0,1,0,0,0,0,0,0,0,,,False,HR
+APL14AC,APL14,Female,42,High-risk,without ATO,1,1.0,0,0,1,1,0,0,0,0,L-type,GII,False,HR
+APL15AC,APL15,Female,29,High-risk,with ATO,1,0.0,0,0,0,0,0,0,1,0,S-type,GI,False,HR
+APL16AC,APL16,Female,49,High-risk,without ATO,1,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,HR
+APL17AC,APL17,Male,45,High-risk,without ATO,1,1.0,0,1,1,0,0,0,0,0,L-type,GII,False,HR
+APL18AC,APL18,Female,25,High-risk,with ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL19AC,APL19,Female,58,High-risk,without ATO,1,1.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL20AC,APL20,Female,54,High-risk,with ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL21AC,APL21,Female,34,High-risk,without ATO,1,0.0,0,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL22AC,APL22,Male,52,High-risk,with ATO,1,0.0,0,0,0,0,1,0,0,0,S-type,GI,False,HR
+APL23AC,APL23,Male,38,High-risk,with ATO,1,0.0,0,0,1,1,0,0,0,0,L-type,GII,False,HR
+APL24AC,APL24,Female,30,High-risk,without ATO,1,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL25AC,APL25,Male,19,High-risk,with ATO,1,0.0,1,0,0,0,0,0,1,0,S-type,GII,False,HR
+APL26AC,APL26,Female,28,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL27AC,APL27,Female,46,High-risk,without ATO,1,1.0,0,0,0,0,0,1,0,0,L-type,GI,False,HR
+APL28AC,APL28,Female,28,High-risk,with ATO,1,0.0,0,1,0,0,0,0,0,0,S-type,GII,False,HR
+APL29AC,APL29,Female,25,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL30AC,APL30,Female,37,High-risk,without ATO,1,1.0,0,0,1,0,0,0,0,0,L-type,GII,False,HR
+APL31AC,APL31,Male,56,High-risk,with ATO,1,0.0,1,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL32AC,APL32,Male,21,Low-risk,with ATO,0,1.0,1,0,0,0,1,0,0,0,L-type,GI,False,não HR
+APL33AC,APL33,Male,46,High-risk,without ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL34AC,APL34,Female,19,High-risk,without ATO,1,0.0,0,1,1,0,0,0,1,0,L-type,GII,False,HR
+APL35AC,APL35,Male,51,High-risk,with ATO,1,0.0,0,0,0,0,0,0,1,0,L-type,GI,False,HR
+APL36AC,APL36,Male,28,High-risk,without ATO,1,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,HR
+APL37AC,APL37,Male,31,High-risk,with ATO,1,0.0,1,1,0,0,0,0,0,0,S-type,GII,False,HR
+APL38AC,APL38,Male,62,High-risk,with ATO,1,1.0,0,0,1,1,0,0,0,0,L-type,GII,False,HR
+APL39AC,APL39,Female,40,Low-risk,without ATO,0,1.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL40AC,APL40,Male,51,Low-risk,without ATO,0,1.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL41AC,APL41,Male,22,High-risk,without ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL42AC,APL42,Male,35,High-risk,with ATO,1,1.0,0,1,1,0,0,0,0,0,L-type,GII,False,HR
+APL43AC,APL43,Male,46,High-risk,without ATO,1,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,HR
+APL44AC,APL44,Female,27,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,HR
+APL45AC,APL45,Female,40,High-risk,without ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL46AC,APL46,Female,27,High-risk,with ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL47AC,APL47,Male,35,High-risk,without ATO,1,1.0,0,1,0,0,0,0,0,0,L-type,GII,False,HR
+APL48AC,APL48,Female,45,High-risk,without ATO,1,0.0,0,1,0,0,0,0,0,0,L-type,GII,False,HR
+APL49AC,APL49,Male,47,High-risk,with ATO,1,0.0,0,1,0,0,0,0,0,0,L-type,GII,False,HR
+APL50AC,APL50,Male,22,High-risk,without ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL51AC,APL51,Female,41,High-risk,with ATO,1,1.0,0,1,1,0,1,0,0,0,V-type,GII,False,HR
+APL52AC,APL52,Female,49,High-risk,with ATO,1,0.0,0,1,0,1,0,0,1,0,L-type,GII,False,HR
+APL53AC,APL53,Male,37,High-risk,without ATO,1,0.0,0,0,1,0,0,0,1,0,L-type,GII,False,HR
+APL54AC,APL54,Female,54,High-risk,with ATO,1,0.0,0,0,1,0,0,0,0,0,L-type,GII,False,HR
+APL55AC,APL55,Female,24,High-risk,without ATO,1,0.0,1,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL58AC,APL58,Male,20,High-risk,with ATO,1,0.0,0,1,0,0,0,0,0,0,L-type,GII,False,HR
+APL59AC,APL59,Male,36,High-risk,with ATO,1,0.0,0,0,1,0,0,0,0,1,L-type,GII,False,HR
+APL60AC,APL60,Male,27,High-risk,with ATO,1,0.0,1,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL61AC,APL61,Male,26,High-risk,without ATO,1,0.0,1,0,0,0,0,0,0,0,V-type,GII,False,HR
+APL63AC,APL63,Male,22,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,S-type,GI,False,HR
+APL64AC,APL64,Female,38,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,0,0,,,False,não HR
+APL65AC,APL65,Male,50,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,0,0,,,False,não HR
+APL67AC,APL67,Male,42,High-risk,without ATO,1,0.0,1,0,0,0,0,0,0,0,,,False,HR
+APL68AC,APL68,Male,31,High-risk,with ATO,1,0.0,0,0,0,0,0,1,1,0,,,False,HR
+APL69AC,APL69,Female,34,Low-risk,without ATO,0,1.0,1,0,0,0,0,0,0,0,S-type,GII,False,não HR
+APL70AC,APL70,Male,44,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,0,0,V-type,GII,False,não HR
+APL71AC,APL71,Male,30,High-risk,without ATO,1,0.0,0,0,1,0,0,0,0,0,V-type,GII,False,HR
+APL74AC,APL74,Male,24,Intermediate-risk,with ATO,0,0.0,0,1,0,0,0,0,0,0,S-type,GII,False,não HR
+APL75AC,APL75,Male,22,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL76AC,APL76,Male,27,Intermediate-risk,with ATO,0,0.0,0,0,0,1,0,0,0,0,S-type,GII,False,não HR
+APL77AC,APL77,Male,31,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL78AC,APL78,Female,46,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL79AC,APL79,Male,45,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,V-type,GI,False,não HR
+APL82AC,APL82,Male,39,Intermediate-risk,with ATO,0,0.0,0,0,0,1,0,0,0,0,,,False,não HR
+APL83AC,APL83,Female,30,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL84AC,APL84,Female,34,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,1,0,0,L-type,GII,False,não HR
+APL85AC,APL85,Female,30,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,V-type,GI,False,não HR
+APL86AC,APL86,Female,19,High-risk,without ATO,1,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL87AC,APL87,Male,19,High-risk,without ATO,1,1.0,0,0,0,1,0,0,0,0,L-type,GII,False,HR
+APL88AC,APL88,Male,53,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL89AC,APL89,Female,61,Intermediate-risk,without ATO,0,0.0,0,0,1,0,0,0,1,0,L-type,GI,False,não HR
+APL90AC,APL90,Male,19,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL91AC,APL91,Male,38,Intermediate-risk,without ATO,0,0.0,0,0,1,0,0,0,0,0,L-type,GII,False,não HR
+APL92AC,APL92,Male,46,Intermediate-risk,without ATO,0,0.0,0,0,1,0,0,0,0,0,,,False,não HR
+APL93AC,APL93,Male,26,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL94AC,APL94,Male,63,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL95AC,APL95,Female,19,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,,,False,não HR
+APL96AC,APL96,Male,64,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL97AC,APL97,Male,63,Low-risk,with ATO,0,1.0,0,0,1,0,0,0,0,0,S-type,GI,False,não HR
+APL98AC,APL98,Male,37,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,1,0,0,L-type,GI,False,não HR
+APL99AC,APL99,Female,52,Low-risk,with ATO,0,1.0,0,0,0,1,0,0,0,0,S-type,GI,False,não HR
+APL100AC,APL100,Female,59,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,,,False,não HR
+APL101AC,APL101,Female,49,Intermediate-risk,with ATO,0,0.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL103AC,APL103,Female,29,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,1,0,0,L-type,GII,False,não HR
+APL104AC,APL104,Female,27,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL105AC,APL105,Male,51,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL106AC,APL106,Female,45,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL107AC,APL107,Male,44,Low-risk,without ATO,0,1.0,1,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL108AC,APL108,Male,19,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL109AC,APL109,Female,65,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL110AC,APL110,Female,32,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL111A,APL111,Male,60,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,,,False,não HR
+APL112AC,APL112,Male,56,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,S-type,GII,False,não HR
+APL113AC,APL113,Male,52,Intermediate-risk,without ATO,0,0.0,0,0,1,0,0,0,0,1,L-type,GII,False,não HR
+APL114AC,APL114,Male,35,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,1,V-type,GII,False,não HR
+APL115AC,APL115,Male,54,Intermediate-risk,with ATO,0,0.0,0,1,0,0,0,0,1,0,S-type,GI,False,não HR
+APL116AC,APL116,Female,21,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,1,L-type,GI,False,não HR
+APL117AC,APL117,Male,25,Intermediate-risk,with ATO,0,0.0,0,1,0,0,0,0,0,0,S-type,GI,False,não HR
+APL118AC,APL118,Female,43,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,0,0,V-type,GI,False,não HR
+APL119AC,APL119,Female,38,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,1,0,0,L-type,GI,False,não HR
+APL120AC,APL120,Male,34,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL121AC,APL121,Male,50,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL122AC,APL122,Female,37,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,1,0,0,V-type,GII,False,não HR
+APL123AC,APL123,Male,55,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL124AC,APL124,Female,26,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL125AC,APL125,Male,53,Intermediate-risk,without ATO,0,0.0,0,0,0,1,1,0,0,0,S-type,GI,False,não HR
+APL126AC,APL126,Male,46,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL127AC,APL127,Female,42,Intermediate-risk,with ATO,0,0.0,1,0,0,1,1,0,0,0,S-type,GII,False,não HR
+APL128AC,APL128,Male,33,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL129AC,APL129,Male,21,Intermediate-risk,with ATO,0,0.0,0,0,1,1,0,0,0,0,L-type,GII,False,não HR
+APL130AC,APL130,Male,63,Intermediate-risk,with ATO,0,0.0,0,1,0,0,1,0,0,0,S-type,GI,False,não HR
+APL131AC,APL131,Female,21,Intermediate-risk,without ATO,0,0.0,0,0,0,0,1,0,0,0,L-type,GII,False,não HR
+APL132AC,APL132,Male,32,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL133AC,APL133,Male,45,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL134AC,APL134,Male,40,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL135AC,APL135,Female,39,Intermediate-risk,with ATO,0,0.0,0,0,0,1,0,0,0,0,L-type,GI,False,não HR
+APL136AC,APL136,Male,27,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL137AC,APL137,Female,25,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,1,0,S-type,GI,False,não HR
+APL138AC,APL138,Female,64,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL139AC,APL139,Female,60,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL140AC,APL140,Female,31,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL141AC,APL141,Female,39,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL142AC,APL142,Female,30,Intermediate-risk,with ATO,0,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,não HR
+APL143AC,APL143,Female,39,Intermediate-risk,with ATO,0,0.0,0,0,0,1,0,1,0,0,L-type,GI,False,não HR
+APL144AC,APL144,Male,26,Intermediate-risk,with ATO,0,0.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL145AC,APL145,Male,48,Intermediate-risk,without ATO,0,0.0,0,1,1,0,0,0,0,0,L-type,GI,False,não HR
+APL146AC,APL146,Female,52,Low-risk,with ATO,0,1.0,0,0,0,0,0,1,0,0,L-type,GII,False,não HR
+APL147AC,APL147,Male,26,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL148AC,APL148,Male,41,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL149AC,APL149,Female,55,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL150AC,APL150,Male,30,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL151AC,APL151,Female,47,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL152AC,APL152,Female,21,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL153AC,APL153,Female,47,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL155AC,APL155,Male,38,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL156AC,APL156,Male,36,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL157AC,APL157,Female,22,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,1,S-type,GI,False,não HR
+APL158AC,APL158,Female,39,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,1,0,L-type,GI,False,não HR
+APL160AC,APL160,Female,32,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,,,False,não HR
+APL163AC,APL163,Male,41,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,,,False,não HR
+APL164AC,APL164,Male,35,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,0,0,0,,,False,não HR
+APL165AC,APL165,Male,55,Low-risk,without ATO,0,1.0,0,0,0,0,1,0,0,0,V-type,GI,False,não HR
+APL166AC,APL166,Female,38,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL167AC,APL167,Female,40,Low-risk,with ATO,0,1.0,0,0,1,0,0,1,0,0,,,False,não HR
+APL168AC,APL168,Female,35,Intermediate-risk,with ATO,0,0.0,0,1,1,0,0,1,0,0,L-type,GI,False,não HR
+APL169AC,APL169,Male,28,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,,,False,não HR
+APL170AC,APL170,Female,48,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL171AC,APL171,Female,43,Low-risk,without ATO,0,1.0,0,0,1,0,1,0,0,1,L-type,GI,False,não HR
+APL172AC,APL172,Male,45,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,1,0,0,L-type,GI,False,não HR
+APL173AC,APL173,Male,46,Intermediate-risk,without ATO,0,0.0,1,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL174AC,APL174,Female,36,Low-risk,with ATO,0,1.0,0,1,0,0,0,0,0,0,L-type,GII,False,não HR
+APL175AC,APL175,Male,19,Low-risk,without ATO,0,1.0,0,0,0,1,0,0,0,0,S-type,GI,False,não HR
+APL176AC,APL176,Male,49,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,0,0,0,S-type,GI,False,não HR
+APL177AC,APL177,Female,35,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,0,0,L-type,GI,False,não HR
+APL178AC,APL178,Female,57,Low-risk,with ATO,0,1.0,1,0,0,0,0,0,0,0,,,False,não HR
+APL179AC,APL179,Female,25,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,0,0,0,S-type,GI,False,não HR
+APL180AC,APL180,Female,33,Intermediate-risk,without ATO,0,0.0,0,0,1,0,0,0,0,0,,,False,não HR
+APL181AC,APL181,Female,53,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,S-type,GII,False,não HR
+APL188AC,APL188,Male,40,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,,,False,não HR
+APL189AC,APL189,Male,47,Intermediate-risk,without ATO,0,0.0,0,0,1,0,0,0,0,0,L-type,GII,False,não HR
+APL190AC,APL190,Male,37,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,1,0,S-type,GII,False,não HR
+APL191A,APL191,Male,46,Intermediate-risk,without ATO,0,0.0,0,0,0,0,1,0,0,0,L-type,GII,False,não HR
+APL194AC,APL194,Male,44,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,,,False,não HR
+APL195AC,APL195,Male,29,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,0,0,L-type,GI,False,não HR
+APL196AC,APL196,Female,58,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL197AC,APL197,Female,44,Intermediate-risk,without ATO,0,0.0,0,0,1,0,0,0,0,0,S-type,GI,False,não HR
+APL198AC,APL198,Female,54,Intermediate-risk,with ATO,0,0.0,0,0,1,1,0,0,0,0,S-type,GI,False,não HR
+APL199AC,APL199,Male,48,Intermediate-risk,with ATO,0,0.0,0,1,1,0,0,0,0,1,L-type,GII,False,não HR
+APL200AC,APL200,Female,55,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,0,0,0,S-type,GII,False,não HR
+APL201AC,APL201,Male,43,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL204AC,APL204,Male,50,Intermediate-risk,without ATO,0,0.0,0,1,1,0,0,0,0,0,,,False,não HR
+APL205AC,APL205,Male,26,High-risk,with ATO,1,1.0,0,0,0,1,0,0,0,0,,,False,HR
+APL208A,APL208,Male,38,Intermediate-risk,with ATO,0,0.0,0,1,0,0,0,0,0,0,,,False,não HR
+APL209A,APL209,Male,37,Low-risk,without ATO,0,1.0,0,0,0,1,0,0,0,0,L-type,GI,False,não HR
+APL210A,APL210,Male,44,Intermediate-risk,without ATO,0,0.0,0,0,0,1,0,0,0,0,L-type,GI,False,não HR
+APL211,APL211,Male,59,Low-risk,without ATO,0,1.0,0,0,0,1,0,0,0,0,V-type,GII,False,não HR
+APL212A,APL212,Female,51,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL213A,APL213,Male,34,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,V-type,GI,False,não HR
+APL214A,APL214,Male,32,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL215A,APL215,Male,49,High-risk,,1,0.0,0,0,0,1,0,0,0,0,L-type,GI,True,HR
+APL216A,APL216,Female,35,Intermediate-risk,,0,0.0,0,0,0,1,0,0,0,0,L-type,GII,True,não HR
+APL218A,APL218,Male,36,High-risk,,1,1.0,0,0,0,0,0,0,0,0,S-type,GII,True,HR
+APL219A,APL219,Female,34,Intermediate-risk,,0,0.0,0,0,0,0,0,1,0,0,L-type,GII,True,não HR
+APL220A,APL220,Female,27,Intermediate-risk,,0,0.0,0,1,0,0,0,0,0,0,S-type,GI,True,não HR
+APL221A,APL221,Male,65,High-risk,,1,0.0,0,0,0,0,0,1,0,0,L-type,GII,True,HR
+APL222A,APL222,Female,27,Low-risk,without ATO,0,1.0,0,1,0,0,0,0,0,0,L-type,GII,False,não HR
+APL224AC,APL224,Male,54,Low-risk,without ATO,0,1.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL225AC,APL225,Female,46,High-risk,without ATO,1,0.0,0,1,0,0,0,0,0,0,L-type,GII,False,HR
+APL226AC,APL226,Male,20,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL227AC,APL227,Male,38,Intermediate-risk,with ATO,0,0.0,0,1,0,0,1,0,0,0,L-type,GII,False,não HR
+APL228AC,APL228,Female,21,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL229AC,APL229,Male,53,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL230AC,APL230,Male,33,High-risk,without ATO,1,0.0,0,0,0,1,0,0,0,0,L-type,GII,False,HR
+APL231,APL231,Female,35,Intermediate-risk,,0,0.0,0,0,0,0,0,0,0,0,S-type,GII,True,não HR
+APL232,APL232,Male,18,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL233,APL233,Male,30,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL234,APL234,Female,38,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL235,APL235,Female,26,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL236,APL236,Male,27,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL237,APL237,Male,42,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,0,0,0,L-type,GII,False,não HR
+APL238,APL238,Female,25,Intermediate-risk,without ATO,0,0.0,0,0,0,0,1,0,0,0,V-type,GII,False,não HR
+APL240,APL240,Female,37,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL241,APL241,Male,45,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL242,APL242,Male,40,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL243,APL243,Male,44,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL244,APL244,Male,52,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL245,APL245,Female,42,Low-risk,with ATO,0,1.0,0,0,0,0,1,0,0,0,L-type,GI,False,não HR
+APL246,APL246,Female,54,Intermediate-risk,,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,True,não HR
+APL248,APL248,Female,24,Intermediate-risk,without ATO,0,0.0,0,0,0,0,1,0,0,0,V-type,GI,False,não HR
+APL249,APL249,Female,53,Intermediate-risk,without ATO,0,0.0,0,0,1,0,0,0,0,0,L-type,GI,False,não HR
+APL250,APL250,Female,48,Intermediate-risk,with ATO,0,0.0,1,0,0,0,1,0,0,0,L-type,GI,False,não HR
+APL252,APL252,Male,33,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL253,APL253,Male,41,Intermediate-risk,,0,0.0,0,0,0,0,1,0,0,0,L-type,GII,True,não HR
+APL254,APL254,Male,33,High-risk,without ATO,1,0.0,1,1,0,0,0,0,0,0,L-type,GII,False,HR
+APL255,APL255,Male,32,Intermediate-risk,without ATO,0,0.0,1,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL256,APL256,Male,27,High-risk,,1,0.0,0,1,0,0,0,0,0,0,S-type,GII,True,HR
+APL257,APL257,Female,54,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,0,0,L-type,GI,False,não HR
+APL258,APL258,Male,23,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL259,APL259,Female,37,Intermediate-risk,,0,0.0,0,0,1,0,0,0,0,0,L-type,GII,True,não HR
+APL260,APL260,Male,48,High-risk,,1,0.0,0,0,0,1,0,0,0,0,L-type,GII,True,HR
+APL261,APL261,Male,29,Intermediate-risk,with ATO,0,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,não HR
+APL262,APL262,Female,58,Low-risk,without ATO,0,1.0,0,0,0,0,1,0,0,0,L-type,GI,False,não HR
+APL263,APL263,Male,50,Low-risk,without ATO,0,1.0,1,0,1,0,0,0,0,0,L-type,GI,False,não HR
+APL264,APL264,Female,29,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL265,APL265,Female,45,High-risk,,1,0.0,0,0,0,0,0,0,0,0,S-type,GII,True,HR
+APL266,APL266,Male,29,High-risk,with ATO,1,0.0,0,1,0,0,0,0,0,0,L-type,GII,False,HR
+APL267,APL267,Male,49,High-risk,without ATO,1,0.0,1,0,0,0,0,0,0,0,L-type,GI,False,HR
+APL268,APL268,Female,61,High-risk,with ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL269,APL269,Female,37,High-risk,with ATO,1,0.0,1,0,1,0,0,0,0,0,L-type,GII,False,HR
+APL270,APL270,Male,50,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL271,APL271,Female,34,Intermediate-risk,with ATO,0,0.0,0,1,0,0,0,0,0,0,S-type,GI,False,não HR
+APL272,APL272,Male,38,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,V-type,GI,False,não HR
+APL273,APL273,Male,58,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,0,0,0,L-type,GII,False,não HR
+APL274,APL274,Male,19,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL275,APL275,Male,36,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,1,L-type,GI,False,não HR
+APL276,APL276,Male,22,High-risk,with ATO,1,0.0,0,0,0,0,1,0,0,0,S-type,GI,False,HR
+APL277,APL277,Female,27,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,1,L-type,GI,False,não HR
+APL278,APL278,Female,57,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL279,APL279,Female,27,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL280,APL280,Female,24,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL281,APL281,Female,53,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL283,APL283,Male,30,Low-risk,without ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL284,APL284,Male,26,High-risk,without ATO,1,0.0,0,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL285,APL285,Female,39,High-risk,without ATO,1,0.0,0,0,0,0,0,0,0,0,V-type,GI,False,HR
+APL286,APL286,Female,20,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,HR
+APL287,APL287,Male,55,High-risk,with ATO,1,0.0,0,0,1,0,0,0,0,0,L-type,GII,False,HR
+APL288,APL288,Male,25,High-risk,without ATO,1,0.0,0,1,0,1,0,0,0,0,L-type,GII,False,HR
+APL289,APL289,Female,28,High-risk,with ATO,1,1.0,1,1,0,0,0,0,0,0,L-type,GII,False,HR
+APL290,APL290,Female,42,High-risk,with ATO,1,0.0,0,0,0,0,0,0,1,0,L-type,GI,False,HR
+APL291,APL291,Female,54,High-risk,without ATO,1,1.0,0,0,1,1,0,0,0,0,S-type,GII,False,HR
+APL292,APL292,Female,46,High-risk,with ATO,1,0.0,1,0,1,0,0,0,0,0,L-type,GII,False,HR
+APL293,APL293,Female,44,High-risk,with ATO,1,0.0,0,1,1,0,0,0,0,0,L-type,GII,False,HR
+APL294,APL294,Female,44,High-risk,,1,1.0,0,0,1,0,0,0,0,0,L-type,GII,True,HR
+APL295,APL295,Female,39,High-risk,without ATO,1,0.0,0,0,0,0,0,0,0,0,V-type,GII,False,HR
+APL297,APL297,Male,48,High-risk,,1,0.0,0,0,0,0,0,0,1,0,S-type,GII,True,HR
+APL298,APL298,Female,36,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL299,APL299,Male,31,High-risk,without ATO,1,0.0,0,1,0,0,0,0,0,0,S-type,GII,False,HR
+APL300,APL300,Female,55,High-risk,with ATO,1,0.0,0,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL301,APL301,Male,57,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,0,0,V-type,GI,False,não HR
+APL302,APL302,Male,38,Intermediate-risk,without ATO,0,0.0,0,0,1,0,1,0,0,1,L-type,GII,False,não HR
+APL303,APL303,Male,25,Intermediate-risk,with ATO,0,0.0,0,1,1,0,0,0,0,0,S-type,GII,False,não HR
+APL304,APL304,Male,23,Intermediate-risk,,0,0.0,0,0,0,1,0,0,0,0,L-type,GII,True,não HR
+APL305,APL305,Male,40,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,1,0,0,L-type,GII,False,não HR
+APL306,APL306,Male,24,Intermediate-risk,,0,0.0,0,0,1,0,0,0,0,0,L-type,GI,True,não HR
+APL307,APL307,Male,44,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,1,L-type,GI,False,não HR
+APL308,APL308,Male,46,Intermediate-risk,with ATO,0,0.0,0,1,1,0,0,0,0,0,S-type,GII,False,não HR
+APL309,APL309,Female,22,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL310,APL310,Female,38,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL311,APL311,Female,33,Low-risk,with ATO,0,1.0,1,0,1,0,0,0,0,0,L-type,GI,False,não HR
+APL312,APL312,Male,32,Intermediate-risk,,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,True,não HR
+APL314,APL314,Female,44,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL315,APL315,Female,31,Intermediate-risk,without ATO,0,0.0,0,1,1,0,0,0,0,0,S-type,GII,False,não HR
+APL316,APL316,Male,44,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL317,APL317,Male,27,Low-risk,with ATO,0,1.0,0,1,0,0,1,0,0,0,S-type,GII,False,não HR
+APL318,APL318,Male,33,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL319,APL319,Male,25,Intermediate-risk,without ATO,0,0.0,0,0,0,1,0,0,0,0,S-type,GI,False,não HR
+APL320,APL320,Female,32,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL321,APL321,Male,44,High-risk,without ATO,1,0.0,0,1,1,0,0,0,0,0,L-type,GII,False,HR
+APL322,APL322,Male,22,Intermediate-risk,with ATO,0,0.0,1,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL323,APL323,Female,50,Intermediate-risk,with ATO,0,0.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL324,APL324,Female,36,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL325,APL325,Male,63,Intermediate-risk,,0,0.0,0,0,0,0,0,0,0,1,L-type,GII,True,não HR
+APL326,APL326,Female,44,Intermediate-risk,with ATO,0,0.0,0,0,0,0,1,0,0,0,L-type,GI,False,não HR
+APL327,APL327,Female,46,Intermediate-risk,without ATO,0,0.0,0,1,0,0,1,0,0,0,L-type,GII,False,não HR
+APL328,APL328,Female,61,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,0,0,L-type,GI,False,não HR
+APL329,APL329,Male,54,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL330,APL330,Female,40,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,1,0,0,L-type,GII,False,não HR
+APL331,APL331,Male,43,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL332,APL332,Male,59,Intermediate-risk,with ATO,0,0.0,0,1,0,0,0,0,0,0,S-type,GI,False,não HR
+APL333,APL333,Male,43,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,1,0,0,S-type,GII,False,não HR
+APL334,APL334,Male,20,Intermediate-risk,with ATO,0,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,não HR
+APL335,APL335,Male,18,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL336,APL336,Female,20,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,1,L-type,GI,False,não HR
+APL337,APL337,Male,28,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,V-type,GI,False,não HR
+APL338,APL338,Female,22,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL339,APL339,Male,36,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL340,APL340,Male,42,Intermediate-risk,without ATO,0,0.0,0,0,0,1,0,0,0,0,S-type,GI,False,não HR
+APL341,APL341,Female,52,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,1,0,0,L-type,GII,False,não HR
+APL342,APL342,Male,31,Intermediate-risk,with ATO,0,0.0,0,0,0,0,1,0,0,0,L-type,GII,False,não HR
+APL343,APL343,Male,25,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL344,APL344,Male,32,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL345,APL345,Female,41,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,S-type,GI,False,não HR
+APL346,APL346,Female,39,Intermediate-risk,with ATO,0,0.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL347,APL347,Female,48,Low-risk,with ATO,0,1.0,0,1,0,0,0,0,0,0,S-type,GI,False,não HR
+APL348,APL348,Female,38,High-risk,,1,0.0,0,0,1,0,0,0,0,0,V-type,GII,True,HR
+APL349,APL349,Female,48,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL350,APL350,Female,44,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL351,APL351,Female,43,Intermediate-risk,with ATO,0,0.0,0,0,1,0,0,0,0,0,L-type,GI,False,não HR
+APL352,APL352,Female,53,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL353,APL353,Male,45,Low-risk,without ATO,0,1.0,0,0,1,0,0,0,0,0,V-type,GI,False,não HR
+APL354,APL354,Female,33,Low-risk,without ATO,0,1.0,0,0,1,1,0,0,0,0,V-type,GII,False,não HR
+APL355,APL355,Male,44,Intermediate-risk,with ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL356,APL356,Male,26,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL357,APL357,Female,43,Low-risk,with ATO,0,1.0,0,0,0,0,0,1,0,0,L-type,GI,False,não HR
+APL358,APL358,Female,36,High-risk,with ATO,1,0.0,1,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL359,APL359,Male,39,High-risk,without ATO,1,0.0,0,1,1,0,0,0,0,0,L-type,GI,False,HR
+APL360,APL360,Male,31,Intermediate-risk,without ATO,0,0.0,0,1,0,0,0,0,0,0,L-type,GI,False,não HR
+APL361,APL361,Male,27,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL362,APL362,Male,23,High-risk,with ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL363,APL363,Female,39,High-risk,without ATO,1,1.0,0,1,1,0,0,0,0,0,L-type,GII,False,HR
+APL364,APL364,Male,22,High-risk,with ATO,1,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL365,APL365,Male,24,High-risk,without ATO,1,1.0,0,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL366,APL366,Female,32,High-risk,without ATO,1,0.0,1,0,1,0,0,0,0,0,V-type,GII,False,HR
+APL367,APL367,Female,58,High-risk,with ATO,1,1.0,0,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL368,APL368,Male,29,High-risk,with ATO,1,,1,0,0,0,0,0,0,0,S-type,GII,False,HR
+APL369,APL369,Male,64,High-risk,with ATO,1,0.0,0,1,1,0,0,0,0,0,L-type,GII,False,HR
+APL370,APL370,Female,26,High-risk,without ATO,1,0.0,1,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL371,APL371,Female,26,High-risk,without ATO,1,1.0,0,0,0,0,0,0,0,0,L-type,GII,False,HR
+APL372,APL372,Female,27,Low-risk,without ATO,0,1.0,0,0,0,1,1,0,0,0,L-type,GI,False,não HR
+APL373,APL373,Male,40,Low-risk,with ATO,0,1.0,0,1,1,0,0,0,0,0,L-type,GI,False,não HR
+APL374,APL374,Male,55,Intermediate-risk,with ATO,0,0.0,1,0,0,0,0,0,0,0,S-type,GII,False,não HR
+APL375,APL375,Male,30,Low-risk,without ATO,0,1.0,0,1,0,0,0,0,0,0,L-type,GII,False,não HR
+APL376,APL376,Male,33,Low-risk,with ATO,0,1.0,0,0,0,0,0,0,0,0,L-type,GII,False,não HR
+APL377,APL377,Male,60,Intermediate-risk,without ATO,0,0.0,0,0,0,0,0,0,0,0,L-type,GI,False,não HR
+APL378,APL378,Female,63,Intermediate-risk,,0,0.0,0,0,0,0,0,1,0,0,L-type,GI,True,não HR
+APL379,APL379,Male,21,High-risk,,1,1.0,1,0,1,0,0,0,0,0,V-type,GII,True,HR

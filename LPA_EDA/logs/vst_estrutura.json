@@ -1,0 +1,11 @@
+{
+  "file": "dados_processados/GSE172057_VST_unificada.txt.gz",
+  "sha256": "1328d23813e337239c675e9c5a01fd67bc69a54179145e06368ca191ff6bb86e",
+  "delimiter": "'\\t'",
+  "header_fields": 324,
+  "row_widths": {
+    "324": 36119
+  },
+  "inconsistent_rows": 0,
+  "duplicate_headers": 0
+}

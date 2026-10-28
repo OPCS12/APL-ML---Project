@@ -1,0 +1,6 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,reason
+APL_SRY,Female,25,Intermediate-risk,with ATO,0,0,0,0,0,0,0,0,0,0,,,linha vazia ou nota; não é paciente
+APL_TJY,Male,55,High-risk,with ATO,1,1,1,0,0,0,0,0,0,0,,,linha vazia ou nota; não é paciente
+,,,,,,,,,,,,,,,,,linha vazia ou nota; não é paciente
+† Patient ID + A: With whole-exome sequencing data at dignosis; Patient ID + C: With matched whole-exome sequencing germline data; Patient ID only: With RNA-seq but not whole-exome sequencing data.,,,,,,,,,,,,,,,,,linha vazia ou nota; não é paciente
+"§ n=321, for RNA-seq patients with available survival data.",,,,,,,,,,,,,,,,,linha vazia ou nota; não é paciente

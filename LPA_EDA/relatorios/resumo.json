@@ -1,0 +1,73 @@
+{
+  "s22_patients": 346,
+  "s5_samples": 323,
+  "s5_s22_matches": 323,
+  "clinical_without_s5": [
+    "APL1",
+    "APL100",
+    "APL111",
+    "APL13",
+    "APL160",
+    "APL163",
+    "APL164",
+    "APL167",
+    "APL169",
+    "APL178",
+    "APL180",
+    "APL188",
+    "APL194",
+    "APL204",
+    "APL205",
+    "APL208",
+    "APL64",
+    "APL65",
+    "APL67",
+    "APL68",
+    "APL82",
+    "APL92",
+    "APL95"
+  ],
+  "candidate_count": 22,
+  "candidate_APL9": {
+    "GII": 17,
+    "GI": 5
+  },
+  "candidates_in_s5": 22,
+  "sanz": {
+    "Intermediate-risk": 172,
+    "High-risk": 109,
+    "Low-risk": 65
+  },
+  "APL9": {
+    "GII": 163,
+    "GI": 160
+  },
+  "APL9_missing": 23,
+  "sanz_categorical_discrepancies": 0,
+  "age_median": 38.0,
+  "processed_utc": "2026-10-27T23:43:52.957935+00:00",
+  "expression_status": "executada",
+  "expression": {
+    "file": "dados_processados/GSE172057_VST_unificada.txt.gz",
+    "sha256": "1328d23813e337239c675e9c5a01fd67bc69a54179145e06368ca191ff6bb86e",
+    "delimiter": "'\\t'",
+    "header_fields": 324,
+    "row_widths": {
+      "324": 36119
+    },
+    "inconsistent_rows": 0,
+    "duplicate_headers": 0,
+    "genes": 36119,
+    "samples": 323,
+    "orientation": "genes_rows",
+    "missing": 0,
+    "second_matrix": "não fornecida; equivalência não verificada",
+    "zero_variance": 0,
+    "near_zero_variance": 0,
+    "duplicate_gene_rows": 0,
+    "duplicate_sample_columns": 0,
+    "floor": 3.44844073036933,
+    "near_floor_fraction": 0.24287235254431153,
+    "candidates_with_expression": 22
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "processed_utc": "2026-10-27T23:43:40.082441+00:00",
+  "method": "partes na ordem dos argumentos; único cabeçalho; bytes das linhas de dados preservados",
+  "parts": [
+    {
+      "file": "GSE172057_VST_parte_01.txt.gz",
+      "compressed_bytes": 23507899,
+      "compressed_sha256": "bf026f50c0741e640b72fb9efdc23364fa212e3e762d438ce9ef8d33b374619c",
+      "data_rows": 10000,
+      "first_gene": "ENSG00000000003",
+      "last_gene": "ENSG00000159917",
+      "data_bytes_sha256": "a0f88b95e58bb222435737f3b57c77c83a4a19244661c3d42061c9e5b2ffc019",
+      "header_identical": true,
+      "header_copied": true
+    },
+    {
+      "file": "GSE172057_VST_parte_02.txt.gz",
+      "compressed_bytes": 20236315,
+      "compressed_sha256": "deb2b7d46d0705a74f4221529a0c26a7bee16f515d849b5809f1b8508c708f65",
+      "data_rows": 10000,
+      "first_gene": "ENSG00000159921",
+      "last_gene": "ENSG00000219395",
+      "data_bytes_sha256": "b1298cd0a422c1b434655c38b991dfe1048ce4e21cf8ae7c1ca3cd9df6cc3dfc",
+      "header_identical": true,
+      "header_copied": false
+    },
+    {
+      "file": "GSE172057_VST_parte_03.txt.gz",
+      "compressed_bytes": 15866815,
+      "compressed_sha256": "b4c1ef3d96e1c2993fc40cb317ee0feec73cbddae6726a61ddcfa6ecc7d443ff",
+      "data_rows": 10000,
+      "first_gene": "ENSG00000219409",
+      "last_gene": "ENSG00000255362",
+      "data_bytes_sha256": "4c8cfb43c1449ccd66346a31ded29bb8dd379022ed04d61293274826062631ef",
+      "header_identical": true,
+      "header_copied": false
+    },
+    {
+      "file": "GSE172057_VST_parte_04.txt.gz",
+      "compressed_bytes": 10159407,
+      "compressed_sha256": "251dd38049f21f10b7a561a42fa6bd24509d7cfb1d9c16441ba3d33cf4ce6f29",
+      "data_rows": 6119,
+      "first_gene": "ENSG00000255363",
+      "last_gene": "ENSG00000273493",
+      "data_bytes_sha256": "61fd5b256b657edb929df7fae0cb478ab5623d255f524cfdcf9594b2852dc596",
+      "header_identical": true,
+      "header_copied": false
+    }
+  ],
+  "output": "/workspace/APL-ML---Project/LPA_EDA/dados_processados/GSE172057_VST_unificada.txt.gz",
+  "genes_rows": 36119,
+  "unique_gene_ids": 36119,
+  "duplicated_gene_ids": {},
+  "sample_columns": 323,
+  "first_sample": "APL2",
+  "last_sample": "APL379",
+  "removed_repeated_headers": 3,
+  "uncompressed_sha256": "0032c4f8beab4dead030512beb1ca7966c9902bc0e88ac54e25dc448db489627",
+  "ordered_gene_ids_sha256": "679f2d145d27813aa4e9efa484614a537c33aed7848cddf8d7c1570030011726",
+  "compressed_sha256": "1328d23813e337239c675e9c5a01fd67bc69a54179145e06368ca191ff6bb86e",
+  "byte_preservation_verified": true,
+  "gene_order_verified": true,
+  "gzip_crc_verified": true,
+  "original_unsplit_file_equivalence": "não verificada; arquivo integral anterior não estava acessível"
+}
